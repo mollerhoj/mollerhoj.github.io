@@ -17,12 +17,6 @@ p {
 table {
   font-family: 'Inconsolata', monospace;
 }
-@media (max-width: 1000px) {
-  body {
-    width: 100px;
-  }
-}
-
 .highlighttable {
   font-size: 90%;
   padding: 0.2em;
