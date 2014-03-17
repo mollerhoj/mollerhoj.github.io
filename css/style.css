@@ -6,7 +6,13 @@
 body {
   font-family: 'Rokkitt', sans-serif;
   margin: 1em;
-  font-size: 350%;
+}
+@media all and (min-width: 568px) {
+ font-size: 350%;
+}
+
+@media only screen and (max-width: 568px) {
+ font-size: 150%;
 }
 ul {
   margin: 1em;
