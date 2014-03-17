@@ -11,8 +11,6 @@ Pellentesque mollis, tortor eget facilisis rutrum, lorem massa suscipit neque, a
 <script type="text/javascript">
         /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
         var disqus_shortname = 'mollerhoj'; // required: replace example with your forum shortname
-        var disqus_developer = 1; // this would set it to developer mode
-        var disqus_url = '{{ site.url }}{{ page.url }}';
 
         /* * * DON'T EDIT BELOW THIS LINE * * */
         (function() {
@@ -24,4 +22,5 @@ Pellentesque mollis, tortor eget facilisis rutrum, lorem massa suscipit neque, a
 <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
 
-<a href="http://mollerhoj.github.com{{ page.url }}#disqus_thread" data-disqus-identifier="{{ page.url }}"></a>
+<a href="http://mollerhoj.github.com{{ page.url }}#disqus_thread" data-disqus-identifier="http://mollerhoj.github.io{{ page.url }}"></a>
+
