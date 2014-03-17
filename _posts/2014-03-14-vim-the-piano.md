@@ -8,6 +8,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi at velit sceleris
 
 Pellentesque mollis, tortor eget facilisis rutrum, lorem massa suscipit neque, ac hendrerit elit lacus vitae arcu. Etiam aliquam lacus est, a vestibulum magna bibendum vel. Quisque sit amet bibendum tellus. Proin bibendum nibh felis, ac aliquam urna pharetra vitae. Aenean feugiat, lacus ac sodales cursus, diam mi fermentum erat, ut pharetra tellus nunc in lorem. Proin sit amet dictum nisl, vel sagittis erat. Nullam vel tortor in dui semper aliquam. Pellentesque sagittis mattis iaculis. Quisque orci mi, tempus sit amet lobortis vitae, interdum eu magna. Fusce dictum hendrerit aliquet. Suspendisse potenti. Curabitur leo dolor, venenatis et pretium id, sagittis in mi.
 
+<div id="disqus_thread"></div>
 <script type="text/javascript">
         /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
         var disqus_shortname = 'mollerhoj'; // required: replace example with your forum shortname
