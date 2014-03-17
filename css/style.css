@@ -14,9 +14,14 @@ ul {
 p {
   margin-bottom:0.5em;
 }
-.highlight span{
+code {
   font-family: 'Inconsolata', monospace;
 }
+
+.code pre span {
+  font-family: 'Inconsolata', monospace;
+}
+
 .highlighttable {
   font-size: 90%;
   padding: 0.2em;
@@ -25,6 +30,7 @@ p {
   border-radius:6px;
 }
 .highlight {
+  font-family: 'Inconsolata', monospace;
   background-color: #EEE;
   padding-left: 0.5em;
 }
