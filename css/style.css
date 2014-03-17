@@ -6,19 +6,8 @@
 body {
   font-family: 'Rokkitt', sans-serif;
   margin: 1em;
-}
-@media all and (min-width: 568px) {
-body {
   font-size: 150%;
 }
-}
-
-@media all and (max-width: 568px) {
-body {
-  font-size: 200%;
-}
-}
-
 ul {
   margin: 1em;
 }
