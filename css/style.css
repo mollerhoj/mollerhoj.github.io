@@ -17,7 +17,7 @@ p {
 table {
   font-family: 'Inconsolata', monospace;
 }
-@media (max-width: 600px) {
+@media (max-width: 1000px) {
   body {
     width: 100px;
   }
