@@ -1,6 +1,7 @@
 * {
   margin: 0px;
   padding: 0px;
+  font-family: inherit;
 }
 body {
   font-family: 'Rokkitt', sans-serif;
@@ -15,11 +16,11 @@ p {
   margin-bottom:0.5em;
 }
 code {
+}
+table {
   font-family: 'Inconsolata', monospace;
 }
-
-.code pre span {
-  font-family: 'Inconsolata', monospace;
+span {
 }
 
 .highlighttable {
@@ -30,7 +31,6 @@ code {
   border-radius:6px;
 }
 .highlight {
-  font-family: 'Inconsolata', monospace;
   background-color: #EEE;
   padding-left: 0.5em;
 }
