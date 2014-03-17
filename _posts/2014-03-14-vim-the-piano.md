@@ -23,5 +23,5 @@ Pellentesque mollis, tortor eget facilisis rutrum, lorem massa suscipit neque, a
 <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
 
-<a href="http://mollerhoj.github.com{{ page.url }}#disqus_thread" data-disqus-identifier="http://mollerhoj.github.io{{ page.url }}"></a>
+<a href="mollerhoj.github.io{{ page.url }}#disqus_thread" data-disqus-identifier="mollerhoj.github.io{{ page.url }}"></a>
 
