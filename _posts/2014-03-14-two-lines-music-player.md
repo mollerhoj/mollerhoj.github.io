@@ -4,7 +4,7 @@ layout: disqus
 A two line music player for Mac OS X
 =====
 
-Today, I wrote a music player using Gary Bernhardts selecta, and UNIX.
+Today, I wrote a music player using Gary Bernhardts [selecta](https://github.com/garybernhardt/selecta), and UNIX.
 Thank you, UNIX.
 
 {% highlight bash linenos=table %}
