@@ -24,7 +24,7 @@ Photo
 
 About
 ----------------
-I have been programming since my early teenage years. I am interested in most of the topics in Computer Science: From Algorithms and Data Structures to Artificial Intelligence and Machine Learning. I enjoy teaching these topics, and have experience in public speaking and in explaining theoretical topics to laymen. I have academic experience most common (and semi-common) programming languages. I write clean, test driven and idiomatic code. I have proffesionel experience working with distributed, agile development teams, defining APIs, integrating third party services and refactoring monolithic systems. I have experience working for startup companies, as well as starting my own companies.
+I have been programming since my early teenage years. I am interested in most of the topics in Computer Science: From Algorithms and Data Structures to Artificial Intelligence and Machine Learning. I enjoy teaching and explaining these topics to laymen. I have academic experience with most common (and semi-common) programming languages. I write clean, test-driven, idiomatic code. I have proffesionel experience working with distributed, agile development teams, defining APIs, integrating third party services and refactoring monolithic systems. I have experience working for startup companies, as well as starting my own companies.
 
 My tools of choice as of early 2018 are:
 
@@ -38,7 +38,6 @@ My tools of choice as of early 2018 are:
 
 Degrees
 ----------------
-
 I hold a Bachelor's Degree in Software Development from the IT University of Copenhagen. [This pdf](/files/bachelors_degree.pdf) shows my courses and grades. For my bachelor project I parallelized pension reserve calculations and moved the calculations to the GPU. 
 
 I hold a Master's Degree in Computer Science from The University of Copenhagen. [This pdf](/files/master/masters_degree.pdf) shows my courses and grades. For my masters thesis project I optimized the Stanford NLP tool SPIED and calibrated the system to extract information from Danish corpora. 
