@@ -40,4 +40,4 @@ Degrees
 ----------------
 I hold a Bachelor's Degree in Software Development from the IT University of Copenhagen. [This pdf](/files/bachelors_degree.pdf) shows my courses and grades. For my Bachelor Project I parallelized pension reserve calculations and moved the calculations to the GPU. 
 
-I hold a Master's Degree in Computer Science from The University of Copenhagen. [This pdf](/files/master/masters_degree.pdf) shows my courses and grades. For my Master's Thesis project I optimized the Stanford NLP tool SPIED and calibrated the system to extract information from Danish corpora. 
+I hold a Master's Degree in Computer Science from The University of Copenhagen. [This pdf](/files/masters_degree.pdf) shows my courses and grades. For my Master's Thesis project I optimized the Stanford NLP tool SPIED and calibrated the system to extract information from Danish corpora. 
