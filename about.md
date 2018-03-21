@@ -5,7 +5,7 @@ layout: default
 About
 =====
 
-Jens Dahl Mollerhoj, danish software developer and wannabe hacker. Computer Science is a great passion of mine.
+Jens Dahl Møllerhøj, danish software developer and wannabe hacker. Computer Science is a great passion of mine.
 
 I write, read and speak Danish and English as well as a long list of programming languages.
 
