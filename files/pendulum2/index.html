@@ -1,0 +1,25 @@
+<canvas></canvas>
+<div id="ui" style="float: left; width: 280px; margin: 10px; 0px;">
+  <h3>Controls</h3>
+</div>
+<script src="constants6.js"></script>
+<script src="script6.js"></script>
+<script src="render6.js"></script>
+
+<style>
+  .info {
+      position: relative;
+      display: inline-block;
+      cursor: help;
+  }
+
+  .info::after{
+      content:attr(title);
+      position:absolute;
+      bottom:100%;
+      background:#333;color:#fff;padding:4px 8px;border-radius:4px;
+      white-space:nowrap;font-size:12px;
+      visibility:hidden;opacity:0;
+  }
+  .info:hover::after{visibility:visible;opacity:1}
+</style>
